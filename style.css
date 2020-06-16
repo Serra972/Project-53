@@ -1,0 +1,60 @@
+h1{
+    color:#eeeeee
+}
+*{
+    border: solid;
+    
+}
+
+.heading{
+    background-color: #00008b;
+    display:flex;
+    justify-content:center;
+}
+
+h2{
+    color: #eeeeee;
+}
+
+.define{
+    background-color: #00008b;
+    display:flex;
+    justify-content:start;
+}
+
+.ques{
+    background-color: #00008b;
+    display:flex;
+    justify-content:center;
+}
+
+.quesjava{
+    background-color: #00008b;
+    display:flex;
+    justify-content:center;
+}
+
+.definejava{
+    background-color: #00008b;
+    display:flex;
+    justify-content:start;
+}
+
+.footer{
+    background-color: #00008b;
+    display:flex;
+    justify-content:center;
+}
+
+.link{
+    background-color: #00008b;
+    display:flex;
+    justify-content:center;
+}
+
+.logo{
+    background-color: #eeeeee;
+    display:flex;
+    justify-content:center;
+
+}
